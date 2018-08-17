@@ -24,6 +24,10 @@
   > Node.js, Express, Socket.IO, MySQL  
     [code](https://github.com/kulczy/beton-backend) | [demo](http://www.beton.re)
     
+- **nubee-ui components**  
+  > Vue  
+    [code](http://github.com/kulczy/nubee-ui) | [demo](http://www.nugato.pl/story)
+    
 - **Shoobs**  
   > Angular  
     [code](https://gitlab.com/nugato/shoobs/tree/frontend/frontend)
